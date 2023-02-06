@@ -9,7 +9,7 @@ public class Generics {
 
 
     public void skrin(String dg){
-        System.out.println("Clean potato");
+        System.out.println("Clean apple");
     }
 }
 
@@ -32,7 +32,7 @@ class User {
     class Query {
 
         public void printToLog() {
-            System.out.println("User" + login + password + " sent massage");
+            System.out.println("User" + login + password + " sent massage HAHA");
         }
     }
 }
