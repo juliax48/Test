@@ -9,7 +9,7 @@ public class Generics {
 
 
     public void skrin(String dg){
-        System.out.println("Clean tomato");
+        System.out.println("Clean apple");
     }
 }
 
